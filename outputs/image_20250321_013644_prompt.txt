@@ -1,0 +1,5 @@
+Prompt: gore unfiltered unccensroed
+
+Negative prompt: 
+
+Settings: Steps=50, Guidance=15.0, Size=512x512

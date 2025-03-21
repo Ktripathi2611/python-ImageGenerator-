@@ -1,0 +1,5 @@
+Prompt: "A sleek sports car driving on a scenic highway at sunset, surrounded by tall mountains and vibrant orange and pink skies. The car is glossy red, and its headlights glow softly as it speeds along a road bordered with green trees and winding curves. Artistic realism style."
+
+Negative prompt: ugly, bad anatomy, blurry, pixelated, deformed, low quality, text, watermark
+
+Settings: Steps=20, Guidance=7.5, Size=512x512

@@ -1,0 +1,5 @@
+Prompt: A magical fantasy landscape with floating islands, waterfalls, and ancient ruins, highly detailed digital painting, trending on artstation
+
+Negative prompt: ugly, bad anatomy, blurry, pixelated, deformed, low quality, text, watermark
+
+Settings: Steps=20, Guidance=7.5, Size=512x512

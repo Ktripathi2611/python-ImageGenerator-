@@ -1,0 +1,5 @@
+Prompt: T-REX
+
+Negative prompt: ugly, bad anatomy, blurry, pixelated, deformed, low quality, text, watermark
+
+Settings: Steps=14, Guidance=7.5, Size=384x448

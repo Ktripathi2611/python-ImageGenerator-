@@ -1,0 +1,5 @@
+Prompt: MOBILE APP 
+
+Negative prompt: ugly, bad anatomy, blurry, pixelated, deformed, low quality, text, watermark
+
+Settings: Steps=20, Guidance=7.5, Size=512x512

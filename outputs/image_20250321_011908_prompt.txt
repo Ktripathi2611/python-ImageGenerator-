@@ -1,0 +1,5 @@
+Prompt: "A fluffy orange tabby cat wearing stylish sunglasses, sitting upright in the driver’s seat of a small convertible car. The car is bright blue, speeding down a sunny coastal highway with ocean waves crashing in the background. The cat has its paws on the steering wheel, looking confident and playful. Whimsical and cartoonish style."
+
+Negative prompt: ugly, bad anatomy, blurry, pixelated, deformed, low quality, text, watermark
+
+Settings: Steps=46, Guidance=12.5, Size=512x512
